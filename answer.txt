@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>answer.txt</title>
+    </head>
+
+    <body>
+        <h1>The title attribute specifies extra information abbout an element<
+        </h1>
+    </body>
+    
+</html>
